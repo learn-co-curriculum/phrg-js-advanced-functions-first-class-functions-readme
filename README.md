@@ -565,6 +565,10 @@ This one includes the function expression's name and is consequently a bit easie
 ## Conclusion
 This lesson introduces a ton of new things to think about when dealing with functions in JavaScript, but you're hopefully starting to see just how powerful functions are. We'll be discussing many of these new concepts in greater depth as we continue to explore the JavaScript language. It's important that you practice and familiarize yourself with these fundamental ideas because they are the building blocks that we'll expand on and compose into increasingly complex and powerful patterns.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-advanced-functions-first-class-functions-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-advanced-functions-first-class-functions-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 ## Resources
 
 - [Wikipedia — First-class function][wiki]
